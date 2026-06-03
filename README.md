@@ -1,2 +1,2 @@
-# EMEA-GAP-Analysis
+# EMEA-GAP-Dashboard
 EMEA GAP Analysis Dashboard
